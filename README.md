@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Kalpana3007)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?Kalpana3007=yourusername&show_icons=true&theme=tokyonight)
+![Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Kalpana3007&theme=tokyonight&hide_border=true)
