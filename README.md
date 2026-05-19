@@ -26,11 +26,11 @@
 <br/><br/>
 
 -🔭 I'm currently learning <b>Web Development & React & MERN Stack</b><br/>
--🌱 I'm currently working on <b>Java DSA</b><br/>
+-🌱 I'm currently working on <b>Java DSA & AI Projects </b><br/>
 -👯 Looking to collaborate on <b>Web Dev Projects</b><br/>
 -💬 Ask me about <b>HTML, CSS, JavaScript, React</b><br/>
 -🏆 Built **Crisis** — AI emergency response system at **Hack2Skill Hackathon**
-- 🔭 I'm currently working on **Web Development + AI Projects**
+
 
 
 </td>
