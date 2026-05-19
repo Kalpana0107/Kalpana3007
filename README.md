@@ -37,6 +37,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpana3007&layout=compact&theme=tokyonight&hide_border=true)
+
+
+
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Kalpana3007)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?Kalpana3007=yourusername&show_icons=true&theme=tokyonight)
